@@ -9,6 +9,7 @@ spec:
   targets:
     - ./components/yelb-ui/yelb-ui.yaml
     - ./components/redis-server/redis-server.yaml
+    - ./components/redis-server-private/redis-server.yaml
     - ./components/yelb-db/yelb-db.yaml
     - ./components/yelb-appserver/yelb-appserver.yaml
     - ./groups/org.yaml
